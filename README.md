@@ -4,12 +4,10 @@
 Formado em Ciência da Computação pela [FEMA](https://www.fema.edu.br), sou programador Full Stack (Java e Angular).
 Estou sempre a procura desafios e novos aprendizados.
 
+- 📫 Como me encontrar **rafaelcerq91@gmail.com**
 
 
-[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:rafaelcerq91@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
-
-
-
+<br><br>
 <div align="center">
   <a href="https://github.com/RafaelCerq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCerq&show_icons=true&theme=default&include_all_commits=true&count_public=true"/>
@@ -27,12 +25,14 @@ Estou sempre a procura desafios e novos aprendizados.
   <img align="center" alt="tortoise" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" />
   <img align="center" alt="trello" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 </div>
-  
+<br> 
 <div align = "center">
-	<a href="https://github.com/RafaelCerq"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/rafaelcerqueira1991/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/rafaelcerq91/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+   <a href="https://github.com/RafaelCerq"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+   <a href="https://www.linkedin.com/in/rafaelcerqueira1991/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+   <a href="https://www.instagram.com/rafaelcerq91/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </div>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRafaelCerq&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/RafaelCerq)
+ 
 
+<div align = "right">
+   <a href="https://github.com/RafaelCerq"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRafaelCerq&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Visitas"/></a>
+</div>

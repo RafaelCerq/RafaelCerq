@@ -9,10 +9,11 @@ Estou sempre a procura desafios e novos aprendizados.
 
 <br><br>
 <div align="center">
-  <a href="https://github.com/RafaelCerq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCerq&show_icons=true&theme=default&include_all_commits=true&count_public=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCerq&layout=compact&langs_count=7&theme=default"/>
+  <a href="https://github.com/RafaelCerq" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCerq&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCerq&layout=compact&langs_count=16&theme=default"/>
 </div>
+<br>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="angularJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />

@@ -1,5 +1,5 @@
 
-<h3 align="center">Olá, meu nome Rafael Cerqueira da Silva e seja Bem Vindo!! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h3>
+<h3 align="center">Olá, meu nome é Rafael Cerqueira da Silva e seja Bem Vindo!! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h3>
 
 Formado em Ciência da Computação pela [FEMA](https://www.fema.edu.br), sou programador Full Stack (Java e Angular).
 Estou sempre a procura desafios e novos aprendizados.

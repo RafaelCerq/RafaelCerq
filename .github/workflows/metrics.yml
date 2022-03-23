@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: jeffersonsimaogoncalves
+          user: RafaelCerq
           template: classic
           base: activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo

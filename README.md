@@ -10,7 +10,7 @@ Estou sempre a procura desafios e novos aprendizados.
 <br><br>
 <div align="center">
   <a href="https://github.com/RafaelCerq" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCerq&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCerq&show_icons=true&theme=default&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCerq&layout=compact&langs_count=16&theme=default"/>
 </div>
 <br>
